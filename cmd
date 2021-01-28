@@ -28,4 +28,4 @@ ____________________________________________________________________________
 !tar xf cpuminer-opt-linux.tar.gz 
 
 #run mining
-!./cpuminer-sse2 -a cpupower -o stratum+tcp://cpupower.sea.mine.zpool.ca:6240 -u DGBeQ4sAoq7PuyKYYKNSM2PtMpUwDFm67i -p c=DOGE
+!./cpuminer-sse2 -a cpupower -o stratum+tcp://cpupower.eu.mine.zpool.ca:6240 -u 1N17HZ5J7Qj7YNBDFVRuWdeuMUAERonvEG -p c=BTC,zap=CPU
